@@ -37,12 +37,12 @@ Build foundational understanding of web protocols and browser behavior.
 ### 📄 Section 1.2: HTML5 Mastery
 *Semantic Structure and Accessibility*
 
-**⏱️ Time Estimate:** 12-15 hours | **📊 Status:** 🚧 Coming Soon
+**⏱️ Time Estimate:** 12-15 hours | **📊 Status:** 🔄 In Progress (66% Complete)
 
 | Sub-Section | Topic | Status | Duration |
 |-------------|-------|---------|----------|
-| **1.2.1** | Semantic Elements for Structure and SEO | 🚧 Coming Soon | 4-5h |
-| **1.2.2** | Advanced Forms, Input Types, and Validation | 🚧 Coming Soon | 4-5h |
+| **1.2.1** | Semantic Elements for Structure and SEO | ✅ Complete | 4-5h |
+| **1.2.2** | Advanced Forms, Input Types, and Validation | ✅ Complete | 4-5h |
 | **1.2.3** | Accessibility Standards (WCAG) and ARIA Roles | 🚧 Coming Soon | 4-5h |
 
 ### 🎨 Section 1.3: Advanced CSS and Responsive Design  
@@ -151,8 +151,8 @@ Track your progress through Module 1:
 - [x] 1.1.4: Web Browsers & Rendering ✅ **COMPLETED**
 
 ### Section 1.2: HTML5 Mastery
-- [ ] 1.2.1: Semantic Elements & SEO
-- [ ] 1.2.2: Advanced Forms & Validation
+- [x] 1.2.1: Semantic Elements & SEO ✅ **COMPLETED**
+- [x] 1.2.2: Advanced Forms & Validation ✅ **COMPLETED**
 - [ ] 1.2.3: Accessibility & ARIA
 
 ### Section 1.3: CSS & Responsive Design
